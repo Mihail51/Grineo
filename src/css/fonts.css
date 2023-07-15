@@ -1,0 +1,225 @@
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/RobotoSlab-SemiBold.eot');
+    src: url('../fonts/RobotoSlab-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/RobotoSlab-SemiBold.woff2') format('woff2'),
+        url('../fonts/RobotoSlab-SemiBold.woff') format('woff'),
+        url('../fonts/RobotoSlab-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('../fonts/Rubik-Bold.eot');
+    src: url('../fonts/Rubik-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Rubik-Bold.woff2') format('woff2'),
+        url('../fonts/Rubik-Bold.woff') format('woff'),
+        url('../fonts/Rubik-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/RobotoSlab-Regular.eot');
+    src: url('../fonts/RobotoSlab-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/RobotoSlab-Regular.woff2') format('woff2'),
+        url('../fonts/RobotoSlab-Regular.woff') format('woff'),
+        url('../fonts/RobotoSlab-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('../fonts/Rubik-Medium.eot');
+    src: url('../fonts/Rubik-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Rubik-Medium.woff2') format('woff2'),
+        url('../fonts/Rubik-Medium.woff') format('woff'),
+        url('../fonts/Rubik-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Bold Outline Trial';
+    src: url('../fonts/../fonts/TTHovesPro-BdOutline.eot');
+    src: url('../fonts/../fonts/TTHovesPro-BdOutline.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/../fonts/TTHovesPro-BdOutline.woff2') format('woff2'),
+        url('../fonts/../fonts/TTHovesPro-BdOutline.woff') format('woff'),
+        url('../fonts/../fonts/TTHovesPro-BdOutline.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('../fonts/../fonts/TTHovesProTrial-Bd.eot');
+    src: url('../fonts/../fonts/TTHovesProTrial-Bd.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/../fonts/TTHovesProTrial-Bd.woff2') format('woff2'),
+        url('../fonts/../fonts/TTHovesProTrial-Bd.woff') format('woff'),
+        url('../fonts/../fonts/TTHovesProTrial-Bd.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('../fonts/Rubik-Regular.eot');
+    src: url('../fonts/Rubik-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Rubik-Regular.woff2') format('woff2'),
+        url('../fonts/Rubik-Regular.woff') format('woff'),
+        url('../fonts/Rubik-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('../fonts/../fonts/TTHovesProTrial-Blk.eot');
+    src: url('../fonts/../fonts/TTHovesProTrial-Blk.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/../fonts/TTHovesProTrial-Blk.woff2') format('woff2'),
+        url('../fonts/../fonts/TTHovesProTrial-Blk.woff') format('woff'),
+        url('../fonts/../fonts/TTHovesProTrial-Blk.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('../fonts/../fonts/TTHovesProTrial-DmBd.eot');
+    src: url('../fonts/../fonts/TTHovesProTrial-DmBd.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/../fonts/TTHovesProTrial-DmBd.woff2') format('woff2'),
+        url('../fonts/../fonts/TTHovesProTrial-DmBd.woff') format('woff'),
+        url('../fonts/../fonts/TTHovesProTrial-DmBd.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('../fonts/../fonts/TTHovesProTrial-Md.eot');
+    src: url('../fonts/../fonts/TTHovesProTrial-Md.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/../fonts/TTHovesProTrial-Md.woff2') format('woff2'),
+        url('../fonts/../fonts/TTHovesProTrial-Md.woff') format('woff'),
+        url('../fonts/../fonts/TTHovesProTrial-Md.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves Pro Trial';
+    src: url('../fonts/../fonts/TTHovesProTrial-Rg.eot');
+    src: url('../fonts/../fonts/TTHovesProTrial-Rg.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/../fonts/TTHovesProTrial-Rg.woff2') format('woff2'),
+        url('../fonts/../fonts/TTHovesProTrial-Rg.woff') format('woff'),
+        url('../fonts/../fonts/TTHovesProTrial-Rg.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/RobotoSlab-Bold.eot');
+    src: url('../fonts/RobotoSlab-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/RobotoSlab-Bold.woff2') format('woff2'),
+        url('../fonts/RobotoSlab-Bold.woff') format('woff'),
+        url('../fonts/RobotoSlab-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/RobotoSlab-Medium.eot');
+    src: url('../fonts/RobotoSlab-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/RobotoSlab-Medium.woff2') format('woff2'),
+        url('../fonts/RobotoSlab-Medium.woff') format('woff'),
+        url('../fonts/RobotoSlab-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/Gilroy-Bold.eot');
+    src: url('../fonts/Gilroy-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Gilroy-Bold.woff2') format('woff2'),
+        url('../fonts/Gilroy-Bold.woff') format('woff'),
+        url('../fonts/Gilroy-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/RobotoSlab-Light.eot');
+    src: url('../fonts/RobotoSlab-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/RobotoSlab-Light.woff2') format('woff2'),
+        url('../fonts/RobotoSlab-Light.woff') format('woff'),
+        url('../fonts/RobotoSlab-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Pro Text';
+    src: url('../fonts/SFProText-Semibold.eot');
+    src: url('../fonts/SFProText-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/SFProText-Semibold.woff2') format('woff2'),
+        url('../fonts/SFProText-Semibold.woff') format('woff'),
+        url('../fonts/SFProText-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Hoves';
+    src: url('../fonts/TTHoves-Regular.eot');
+    src: url('../fonts/TTHoves-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTHoves-Regular.woff2') format('woff2'),
+        url('../fonts/TTHoves-Regular.woff') format('woff'),
+        url('../fonts/TTHoves-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Hoves';
+    src: url('../fonts/TTHoves-Light.eot');
+    src: url('../fonts/TTHoves-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTHoves-Light.woff2') format('woff2'),
+        url('../fonts/TTHoves-Light.woff') format('woff'),
+        url('../fonts/TTHoves-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Hoves';
+    src: url('../fonts/TTHoves-Medium.eot');
+    src: url('../fonts/TTHoves-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTHoves-Medium.woff2') format('woff2'),
+        url('../fonts/TTHoves-Medium.woff') format('woff'),
+        url('../fonts/TTHoves-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+

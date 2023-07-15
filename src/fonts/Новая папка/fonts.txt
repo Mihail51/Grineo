@@ -1,0 +1,29 @@
+
+
+++TT Hoves Regular
+++TT Hoves Medium
+++Roboto Slab Regular
+++TT Hoves Light
+++TT Hoves Pro Trial Black
+++Roboto Slab Bold
+++TT Hoves Pro Trial Regular
+++Roboto Slab Light
+++TT Hoves Pro Bold Outline
+++TT Hoves Pro Trial DemiBold
+++TT Hoves Pro Trial Medium
+++TT Hoves DemiBold
+++Roboto Slab SemiBold
+++Rubik Regular
+++TT Hoves Pro Trial Bold
+++Roboto Slab Medium
+++Rubik Medium
+++Gilroy Bold
+++SF Pro Text Semibold
+++Rubik Bold
+
+
+font-family: 'Roboto Slab', serif;
+font-family: 'Rubik', sans-serif;
+font-family: 'TT Hoves', sans-serif;
+font-family: 'Gilroy', sans-serif;
+font-family: 'SF Pro Text Semibold', sans-serif;
